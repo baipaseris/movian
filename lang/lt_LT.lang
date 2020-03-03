@@ -1,0 +1,1858 @@
+language: Lithuanian
+native: Lietuviškai 
+maintainer: Amberis <dzintarijus1@gmail.com> 
+#
+# ./glwskins/flat/ctxmenu/default_details.view
+#
+id: Bookmark
+msg: Įtraukti į žymes
+
+id: Bookmarked
+msg: Ištrinti žymę
+
+id: Copy to clipboard
+msg: Kopijuoti į mainų sritį
+
+id: Copy to location...
+msg: Kopijuoti į ...
+
+id: Delete
+msg: Ištrinti
+
+id: Queue
+msg: Eilė
+
+#
+# ./glwskins/flat/ctxmenu/plugin_details.view
+#
+id: Author:
+msg: Autorius:
+
+id: Available version:
+msg: Prieinama versija:
+
+id: Changelog
+msg: Kas naujo?
+
+id: Install
+msg: Įdiegimas
+
+id: Installed version:
+msg: Įdiegta versija:
+
+id: Status:
+msg: Būsena:
+
+id: Uninstall
+msg: Panaikinti
+
+id: Upgrade
+msg: Atnaujinti
+
+#
+# ./glwskins/flat/ctxmenu/video_details.view
+#
+id: Continue from %s
+msg: Tęsti nuo %s
+
+id: Mark as seen
+msg: Pažymėti kaip peržiūrėtą
+
+id: Mark as unseen
+msg: Pažymėti kaip neperžiūrėtą
+
+id: Play from beginning
+msg: Rodyti nuo pradžios
+
+id: Play until end of list
+msg: Rodyti iki sąrašo pabaigos
+
+id: Video Cast
+# Missing translation
+msg: Vaizdo įrašas
+
+#
+# ./glwskins/flat/items/details/video.view
+#
+id: Season %d - Episode %d
+msg: Sezonas %d - Epizodas %d
+
+id: Seen %d times, %s
+# Missing plural translation for 'Seen %d times, %s' and 'Seen %d time, %s'
+msg[0]: Peržiūrėta %d kartų, %s
+msg[1]: Peržiūrėta %d kartai, %s
+
+#
+# ./glwskins/flat/items/list/add.view
+#
+id: Add new entry
+msg: Pridėti
+
+#
+# ./glwskins/flat/items/list/bool.view
+#
+id: Off
+msg: Išjungti
+
+id: On
+msg: Įjungti
+
+#
+# ./glwskins/flat/items/list/font.view
+#
+id: Condensed
+msg: Suspaustas
+
+id: Subtitles
+msg: Subtitrai
+
+id: User interface
+msg: Vartotojo sąsaja
+
+#
+# ./glwskins/flat/items/list/tvepisode.view
+#
+id: Episode %d - %s
+msg: Epizodas %d - %s
+
+#
+# ./glwskins/flat/loading.view
+#
+id: %d kb/s
+msg: %d kb/s
+
+id: Bitrate:
+msg: Kokybė:
+
+#
+# ./glwskins/flat/log.view
+#
+id: System log
+msg: Sistemos įrašai
+
+#
+# ./glwskins/flat/mediainfo.view
+#
+id: A/V diff
+# Missing translation
+msg: 
+
+id: Audio bitrate
+msg: Garso kokybė
+
+id: Audio codec
+msg: Garso dekoderis
+
+id: Audio packets
+msg: Garso paketai
+
+id: Buffer usage
+msg: Buferio naudojimas
+
+id: No media loaded
+msg: Media failas neįkeltas
+
+id: Remaining buffer
+msg: Likęs buferis
+
+id: Source
+msg: Šaltinis
+
+id: Video bitrate
+msg: Vaizdo įrašo kokybė
+
+id: Video codec
+msg: Vaizdo įrašo dekoderis
+
+id: Video framerate
+msg: Kadrų dažnis
+
+id: Video packets
+msg: Vaizdo įrašo paketai
+
+#
+# ./glwskins/flat/menu/sidebar.view
+#
+id: Bookmark page
+msg: Įtraukti žymę
+
+id: Page settings
+msg: Nustatymai
+
+id: Paste
+msg: Įklijuoti
+
+id: Reload page
+msg: Perkrauti šį puslapį
+
+id: Remove bookmark
+msg: Pašalinti žymę
+
+id: Settings
+msg: Nustatymai
+
+#
+# ./glwskins/flat/menu/sidebar_common.view
+#
+id: Activate sleep timer
+msg: Įjungti miego režimą
+
+id: Disable sleep timer
+msg: Išjungti miego režimą
+
+id: Exit %s
+msg: Išeiti
+
+id: Hide media info
+msg: Slėpti įrašo informaciją
+
+id: Hide system info
+msg: Slėpti sistemos informaciją
+
+id: Master volume
+msg: Garsumas
+
+id: Show media info
+msg: Rodyti įrašo informaciją
+
+id: Show system info
+msg: Rodyti sistemos informaciją
+
+id: Suspend
+msg: Išjunti
+
+id: Time until sleep
+msg: Laikas iki miego režimo
+
+id: View log
+msg: Rodyti sistemos įrašus
+
+id: dB
+msg: dB
+
+id: min
+msg: min
+
+#
+# ./glwskins/flat/osd/osd_audio.view
+#
+id: Audio
+msg: Garsas
+
+#
+# ./glwskins/flat/osd/osd_main.view
+#
+id: Audio settings
+msg: Garso nustatymai
+
+id: Subtitle settings
+msg: Subtitrų nustatymai
+
+id: Video settings
+msg: Vaizdo nustatymai
+
+#
+# ./glwskins/flat/osk.view
+#
+id: Default
+msg: Numatytas 
+
+id: Keyboard layout:
+msg: Klaviatūros išdėstymas:
+
+#
+# ./glwskins/flat/pages/directory.view
+#
+id: Album
+msg: Albumas
+
+id: Artist
+msg: Atlikėjas
+
+id: Custom
+msg: Vartotojiškas
+
+id: Grid
+msg: Tinklelis
+
+id: List
+msg: Sąrašas
+
+id: Page layout
+msg: Puslapio išdėstymas
+
+id: Search results
+msg: Paieškos rezultatai
+
+id: TV Season
+msg: TV sezonas
+
+#
+# ./glwskins/flat/pages/empty.view
+#
+id: No contents
+msg: Nėra turinio
+
+#
+# ./glwskins/flat/pages/home.view
+#
+id: Dismiss
+msg: Atšaukti
+
+id: Home
+msg: Pradinis ekranas
+
+#
+# ./glwskins/flat/pages/openerror.view
+#
+id: Unable to open resource
+msg: Nepavyko atidaryti šaltinio
+
+#
+# ./glwskins/flat/pages/playqueue.view
+#
+id: Playqueue
+msg: Grojaraštis
+
+#
+# ./glwskins/flat/pages/searchresults.view
+#
+id: Show more
+msg: Rodyti daugiau
+
+id: %d hits
+# Missing plural translation for '%d hits' and '%d hit'
+msg[0]: %d vaizdų
+msg[1]: %d vaizdai
+
+#
+# ./glwskins/flat/pages/slideshow.view
+#
+id: Interval: %ds
+msg: Intervalas: %ds
+
+id: Play/Pause
+msg: Rodyti/Stabdyti
+
+id: Stop
+msg: Stop
+
+#
+# ./glwskins/flat/pages/stpp.view
+#
+id: Remote control - %s
+msg: Distancinis valdymas - %s
+
+id: Remote controlling %s
+msg: Nuotolinis valdymas %s
+
+#
+# ./glwskins/flat/pages/stppstpp.view
+#
+id: Nested remote controll is not supported
+msg: Prijungtas nuotolinio valdymo pultas nepalaikomas
+
+id: Remote control
+msg: Nuotolinio valdymo pultas
+
+#
+# ./glwskins/flat/pages/stppvideo.view
+#
+id: Audio tracks
+msg: Garso takeliai
+
+id: Audio volume adjustment: %d dB
+msg: Garsumo reguliavimas: %d db
+
+id: CPU is too slow to decode this video
+msg: CPU per lėtas vaizdo dekodavimui
+
+id: Next
+msg: Sekantis
+
+id: Previous
+msg: Ankstesnis
+
+#
+# ./glwskins/flat/pages/tvseason.view
+#
+id: Season %d
+msg: Sezonas %d
+
+#
+# ./glwskins/flat/pages/upgrade.view
+#
+id: %s is up to date
+msg: %s yra atnaujinta
+
+id: An error occured during download
+msg: Įkeliant įvyko klaida
+
+id: Changelog for %s releases
+msg: Kas naujo versijoje? %s
+
+id: Check for updates now
+msg: Patikrinti, ar nėra naujinių
+
+id: Checking for updates
+msg: Tikrinami atnaujinimai
+
+id: Current version:
+msg: Įdiegta versija:
+
+id: Download and install
+msg: Atsisiųsti ir įdiegti
+
+id: Downloading %s
+msg: Siunčiama %s
+
+id: New version %s is available for download
+msg: Galima nauja %s versija
+
+id: No upgrade available
+msg: Nėra atnaujinimų
+
+id: Retry
+msg: Pakartoti
+
+id: Stable
+msg: Stabili
+
+id: Testing
+msg: Testavimo
+
+id: Unable to query for new version
+msg: Neįmanoma patikrinti atnaujinimų
+
+#
+# ./glwskins/flat/popups/auth.view
+#
+id: Domain
+msg: Domenas
+
+id: Password
+msg: Slaptažodis
+
+id: Remember me
+msg: Įsiminti mane
+
+id: Username
+msg: Vartotojo vardas
+
+#
+# ./glwskins/flat/popups/common.view
+#
+id: Cancel
+msg: Atšaukti
+
+id: Ok
+msg: Ok
+
+#
+# ./glwskins/flat/popups/filepicker.view
+#
+id: Back
+msg: Atgal
+
+id: Close
+msg: Uždaryti
+
+id: Folder select mode, press right to open subfolder
+msg: Aplanko pasirinkimo režimas, norėdami atidaryti poaplanką, paspauskite „Dešinėn“
+
+#
+# ./glwskins/flat/popups/resume.view
+#
+id: No, Start over
+msg: Ne, Pradėti iš naujo
+
+id: Resume from %s
+msg: Tęsti nuo %s
+
+id: Yes
+msg: Taip
+
+#
+# ./glwskins/flat/popups/textDialog.view
+#
+id: OK
+msg: OK
+
+#
+# ./glwskins/flat/sysinfo.view
+#
+id: CPU Temp
+msg: CPU temperatūra
+
+id: Connected
+msg: Prisijungta
+
+id: Fragmentation
+msg: Fragmentacija
+
+id: Framerate
+msg: Kadrų dažnis
+
+id: GPU Temp
+msg: GPU temperatūra
+
+id: HDD Avail
+msg: HDD liko 
+
+id: IP Address
+msg: IP Adresas
+
+id: Inactive memory
+msg: RAM laisva
+
+id: Memory usage
+msg: RAM naudojama
+
+id: Network
+msg: Tinklas
+
+id: Not available
+msg: Nėra
+
+id: System Free
+msg: Laisva atmintis
+
+id: System Total
+msg: Bendra atmintis
+
+id: VM Page In/Out
+# Missing translation
+msg: VM puslapis In/Out
+
+id: Version
+msg: Movian versija
+
+#
+# ./glwskins/flat/universe.view
+#
+id: Audio muted
+msg: Garsas išjungtas
+
+id: Copying %d files
+msg: Kopijuojami %d failai
+
+id: Master volume: %d dB
+msg: Bendras garsas: %d dB
+
+id: Overscan adjustment\nPosition border at screen edges
+msg: Padėties korekcija\nRėmelio padėtis ekrano kraštuose
+
+#
+# ./src/api/stpp.c
+#
+id: Allow remote control
+msg: Leisti nuotolinį valdymą
+
+id: Device not available
+msg: Įrenginys negalimas
+
+id: Movians for remote control
+msg: Movians nuotoliniam valdymui
+
+#
+# ./src/api/tmdb.c
+#
+id: Language (ISO 639-1 code)
+msg: Kalba (pagal ISO 639-1 kodą)
+
+id: Use original title
+msg: Naudokite originalų pavadinimą
+
+#
+# ./src/arch/android/android.c
+#
+id: Android Storage
+msg: Android saugykla
+
+#
+# ./src/arch/linux/pulseaudio.c
+#
+id: Unable to initialize audio system %s -- %s
+msg: Neįmanoma inicijuoti garso sistemos %s -- %s
+
+#
+# ./src/arch/ps3/ps3_main.c
+#
+id: System is low on memory (%d kB RAM available)
+msg: Trūksta atminties (liko %d kB RAM)
+
+#
+# ./src/arch/ps3/ps3_vdec.c
+#
+id: Cell-h264: %d Ref-frames for %d content is incompatible with PS3 HW decoder. Disabling acceleration
+msg: Cell-h264: %d Turinio ref-rėmai %d nesuderinami su PS3 HW dekoderiu. Spartinimas išjungiamas
+
+id: Cell-h264: Broken headers, Disabling acceleration
+msg: Cell-h264: Sugadintos antraštės, Spartinimas išjungiamas
+
+id: Cell-h264: Forcing level 4.2 for content in level %d.%d. This may break video playback.
+msg: Cell-h264: Priverstinis lygis 4.2 turiniui %d.%d. Tai gali sugadinti vaizdo įrašo atkūrimą.
+
+id: Unable to accelerate %s, library not loaded.
+msg: %s neįmanomas spartinimas, trūksta bibliotekų.
+
+id: Unable to open Cell codec. Error 0x%x
+msg: Neįmanoma atidaryti Cell kodeko. Klaida 0x%x
+
+id: Unable to open Cell codec. Unable to allocate %d bytes of RAM
+msg: Neįmanoma atidaryti Cell kodeko. Trūksta %d baitų RAM
+
+id: Unable to query Cell codec. Error 0x%x
+msg: Neįmanoma atidaryti Cell kodeko. Klaida 0x%x
+
+#
+# ./src/arch/rpi/rpi_audio.c
+#
+id: 8 Channel PCM
+msg: 8 kanalų PCM
+
+id: AC3 Pass-Through
+msg: AC3 Pass-Through
+
+id: Analog
+msg: Analoginis
+
+id: Audio output port
+msg: Garso išvestis
+
+id: Autodetect
+msg: Automatinis atpažinimas
+
+id: DTS Pass-Through
+msg: DTS Pass-Through
+
+id: HDMI
+msg: HDMI
+
+#
+# ./src/arch/rpi/rpi_tv.c
+#
+id: Match display and content framerate
+msg: Suderinti turinio ir ekrano kadrų dažnį
+
+#
+# ./src/audio2/audio.c
+#
+id: Audio delay
+msg: Garso uždelsimas
+
+id: Audio gain
+msg: Garso stiprinimas
+
+id: Setup audio output
+msg: Garso išvesties nustatymas
+
+id: Video playback
+msg: Paleisti vaizdo įrašą
+
+#
+# ./src/audio2/audio_test.c
+#
+id: 440Hz sinewave -12dB
+msg: 440Hz sinusoidinis -12dB
+
+id: Audio test
+msg: Garso testas
+
+id: Center
+msg: Centras
+
+id: Front Left
+msg: Priekinė kairėje
+
+id: Front Right
+msg: Priekinė dešinėje
+
+id: LFE
+msg: Žemų dažnių efektas (LFE)
+
+id: Pink noise
+msg: Rožinis triukšmas
+
+id: Play test signal
+msg: Groti bandymo signalą
+
+id: Rear Left
+msg: Galinė kairėje
+
+id: Rear Right
+msg: Galinė dešinėje
+
+id: Speaker position
+msg: Kolonėlių išdėstymas
+
+id: Surround Left
+msg: Išplėstinė kairėje
+
+id: Surround Right
+msg: Išplėstinė dešinėje
+
+id: Test signal type
+msg: Bandymo signalo tipas
+
+#
+# ./src/backend/bittorrent/bt_backend.c
+#
+id: No files in torrent
+msg: Torrent'e nėra failų
+
+id: Unable to open torrent: %s
+msg: Neįmanoma atidaryti torrent: %s
+
+#
+# ./src/backend/bittorrent/diskio.c
+#
+id: Cached torrents use %d MB out of allowed %d MB. Total free space on volume: %d MB
+msg: Torrent talpykla naudoja %d MB iš nustatytų %d MB. Bendra laisva vieta: %d MB
+
+#
+# ./src/backend/bittorrent/fa_torrent.c
+#
+id: Connected peers
+msg: Susijungusios grupės
+
+id: Known peers
+msg: Žinomos grupės
+
+id: Receiving from
+msg: Gaunama iš
+
+id: Torrent leechers
+msg: Torrent siuntėjai
+
+id: Torrent seeders
+msg: Torrent skleidėjai
+
+#
+# ./src/backend/bittorrent/torrent_settings.c
+#
+id: BitTorrent
+msg: BitTorrent
+
+id: Clear cache
+msg: Išvalyti talpyklą
+
+id: Enable bittorrent
+msg: Įgalinti bittorrent
+
+id: Max upload speed
+msg: Maksimalus išsiuntimo greitis
+
+id: Max usage of free space for caching torrents
+msg: Maksimalus torrent talpyklos dydis diske
+
+id: Status
+msg: Būsena
+
+id: Torrent cache path
+msg: Torrent talpyklos vieta
+
+#
+# ./src/backend/dvd/dvd.c
+#
+id: DVD
+msg: DVD
+
+id: DVD read error, restarting disc
+msg: DVD skaitymo klaida, paleidžiamas diskas iš naujo
+
+#
+# ./src/backend/hls/hls.c
+#
+id: Primary
+msg: Pagrindinis
+
+id: Supplementary
+msg: Papildomas
+
+#
+# ./src/backend/htsp/htsp.c
+#
+id: Channels
+msg: Kanalai
+
+id: Invalid HTSP URL
+msg: Neteisingas HTSP URL
+
+id: No such channel
+msg: Nėra tokio kanalo
+
+id: Recorded shows
+msg: Įrašytos laidos
+
+id: Recorder
+msg: Įrašymas
+
+#
+# ./src/backend/playlist.c
+#
+id: Unable to open playlist
+msg: Nepavyko atidaryti grojaraščio
+
+#
+# ./src/backend/search.c
+#
+id: Search
+msg: Paieška
+
+id: Search result for: %s
+msg: Paieškos rezultatai: %s
+
+#
+# ./src/backend/slideshow/slideshow.c
+#
+id: 3 seconds
+msg: 3 sekundės
+
+id: 5 seconds
+msg: 5 sekundės
+
+id: 7 seconds
+msg: 7 sekundės
+
+id: Slideshow speed
+msg: Skaidrių demonstravimo greitis
+
+#
+# ./src/blobcache_file.c
+#
+id: Cache cleared
+msg: Talpykla išvalyta
+
+id: Clear cached files
+msg: Išvalyti talpykloje esančius failus
+
+#
+# ./src/fileaccess/fa_backend.c
+#
+id: Can't handle content type %d
+msg: Netinkamas turinio tipas %d
+
+id: Checking file contents
+msg: Tikrinamas failo turinys
+
+id: Invalid URL from redirect
+msg: Netinkamas peradresavimo URL
+
+id: Unable to open file: %s
+msg: Nepavyko atidaryti failo: %s
+
+#
+# ./src/fileaccess/fa_filepicker.c
+#
+id: Select a file
+msg: Pasirinkite failą
+
+#
+# ./src/fileaccess/fa_locatedb.c
+#
+id: Search using Unix locatedb
+msg: Paieška naudojant Unix locatedb
+
+#
+# ./src/fileaccess/fa_scanner.c
+#
+id: Deleted %s
+msg: Pašalinta: %s
+
+id: Filename
+msg: Failo pavadinimas
+
+id: Include in library
+msg: Įtraukti į biblioteką
+
+id: Newest first
+msg: Pirmiausia naujausi
+
+id: Oldest first
+msg: Pirmiausia seniausi
+
+id: Show only supported files
+msg: Rodyti tik palaikomus failus
+
+id: Sort folders first
+msg: Pirmiausia rūšiuoti aplankus
+
+id: Sort on
+msg: Rūšiuoti pagal
+
+id: Unable to delete %s\n%s
+msg: Nepavyko ištrinti %s\n%s
+
+#
+# ./src/fileaccess/fa_spotlight.c
+#
+id: Search using spotlight
+msg: Paieška naudojant spotlight
+
+#
+# ./src/fileaccess/fileaccess.c
+#
+id: Are you sure you want to delete:
+msg: Ar tikrai norite ištrinti:
+
+id: Browse archives as folders
+msg: Žiūrėti archyvus kaip aplankus
+
+id: Enable file deletion from item menu
+msg: Įgalinti failų ištrynimą iš kontekstinio meniu
+
+id: Show filename extensions
+msg: Rodyti failų plėtinius
+
+id: Store per-file settings in filesystem
+msg: Įrašykite atskirų failų nustatymus sistemoje
+
+id: %d archive parts
+msg[0]: archyvo dalių: %d
+msg[1]: archyvo dalių: %d
+
+id: %d directories
+msg[0]: aplankų: %d
+msg[1]: aplankų: %d
+
+id: %d files
+msg[0]: failų: %d
+msg[1]: failų: %d
+
+#
+# ./src/fileaccess/smb/fa_nativesmb.c
+#
+id: Access denied
+msg: Prieiga atmesta
+
+id: Account restricted
+msg: Paskyra apribota
+
+id: Bad network share name
+msg: Netinkamas tinklo pavadinimas
+
+id: Logon failure
+msg: Prisijungimo klaida
+
+id: Object name not found
+msg: Objekto pavadinimas nerastas
+
+#
+# ./src/i18n.c
+#
+id: 12 Hour
+msg: 12 valandų
+
+id: 24 Hour
+msg: 24 valandos
+
+id: Default character set
+msg: Numatytasis simbolių rinkinys
+
+id: Ignore 'The' at beginning of words when sorting
+msg: Rūšiuojant žodžius, nekreipti dėmesio į "The" priedėlį
+
+id: Language
+msg: Kalba
+
+id: Language codes should be configured as three character ISO codes, example (eng, swe, fra)
+msg: Kalbos kodai turi būti trijų simbolių ISO koduotės formos, pavyzdžiui: rus, eng, fra
+
+id: Languages
+msg: Kalbos
+
+id: Preferred languages
+msg: Pageidaujamos kalbos
+
+id: Primary audio language code
+msg: Pagrindinės garso kalbos kodas
+
+id: Primary subtitle language code
+msg: Pagrindinės subtitrų kalbos kodas
+
+id: Secondary audio language code
+msg: Antrinės garso kalbos kodas
+
+id: Secondary subtitle language code
+msg: Antrinės subtitrų kalbos kodas
+
+id: System default
+msg: Numatytieji nustatymai
+
+id: Tertiary audio language code
+msg: Tretinės garso kalbos kodas
+
+id: Tertiary subtitle language code
+msg: Tretinės subtitrų kalbos kodas
+
+id: Time format
+msg: Laiko formatas
+
+id: Timezone
+msg: Laiko juosta (pagal gmt)
+
+#
+# ./src/ipc/libcec.c
+#
+id: Longpress SELECT for item menu
+msg: Paspauskite ir palaikykite SELECT, norint atidaryti meniu 
+
+id: Switch TV input source
+msg: Pakeisti TV šaltinį
+
+id: Use STOP key for combo input
+msg: Naudokite STOP mygtuką, norėdami perjungti kombinuotą šaltinį
+
+#
+# ./src/keyring.c
+#
+id: Forget remembered passwords
+msg: Ištrinti išsaugotus slaptažodžius
+
+id: Rembered passwords erased
+msg: Išsaugoti slaptažodžiai ištrinti
+
+#
+# ./src/media/media_settings.c
+#
+id: Align on video frame
+msg: Vaizdo įrašo derinimas
+
+id: Audio volume
+msg: Garsumas
+
+id: Delay
+msg: Vėlavimas
+
+id: Go to standby after video ends
+msg: Vaizdo įrašui pasibaigus išjunkti sistemą
+
+id: Horizontal pan
+msg: Horizontali panorama
+
+id: Horizontal position
+msg: Horizontali padėtis
+
+id: Horizontal scale
+msg: Horizontali skalė
+
+id: Reset defaults for folder '%s'
+msg: Atkurti aplanko parametrus '%s'
+
+id: Save as defaults for folder '%s'
+msg: Išsaugoti aplanko parametrus '%s'
+
+id: Save as global default
+msg: Išsaugoti kaip numatytuosius nustatymus 
+
+id: Scaling
+msg: Mastelis
+
+id: Stretch video to fullscreen
+msg: Ištempti vaizdo įrašą per visą ekraną
+
+id: Stretch video to widescreen
+msg: Ištempti vaizdo įrašą į plačiaekranį vaizdą
+
+id: Vertical pan
+msg: Vertikali panorama
+
+id: Vertical position
+msg: Vertikali padėtis
+
+id: Vertical scale
+msg: Vertikali skalė
+
+id: Video frame interpolation
+msg: Vaizdo kadrų interpoliacija
+
+id: Video zoom
+msg: Vaizdo įrašo mastelis
+
+#
+# ./src/metadata/browsemdb.c
+#
+id: Indexing
+msg: Indeksavimas
+
+#
+# ./src/metadata/decoration.c
+#
+id: Automatic
+msg: Automatinis
+
+id: Erase all playback info
+msg: Ištrinti visą įrašų atkūrimo informaciją
+
+id: Manual
+msg: Rankinis
+
+id: Mark all as seen
+msg: Pažymėti visus kaip matytus
+
+id: Mark all as unseen
+msg: Pažymėti visus kaip nematytus
+
+id: Metadata mode
+msg: Metaduomenų priėmimo režimas
+
+#
+# ./src/metadata/metadata.c
+#
+id: Embedded in file
+msg: Įdėta į failą
+
+id: Track %d
+msg: Трек %d
+
+#
+# ./src/metadata/metadata_sources.c
+#
+id: Enabled
+msg: Įgalinta
+
+id: Metadata
+msg: Metaduomenys
+
+id: Metadata configuration and provider settings
+msg: Metaduomenų konfigūracija ir teikėjo parametrai
+
+id: Providers for Music
+msg: Muzikos teikėjai
+
+id: Providers for Video
+msg: Vaizdo teikėjai
+
+#
+# ./src/metadata/metadb.c
+#
+id: %d items deleted
+msg: Ištrinti įrašai: %d
+
+id: Clear all metadata
+msg: Ištrinti visus metaduomenis
+
+id: Clearing all metadata means losing <b>all</b> metadata cached from external sources such as themoviedb.org, etc\n\nInformation about resume-points, playcount, etc will be saved.\nAre you sure you proceed?
+msg: Jei norite išvalyti visus duomenis, prarasite <b>visus</b> metaduomenis talpykloje iš išorinių šaltinių, tokių kaip themoviedb.org ir t.t.\n\nInformacija apie atnaujinimo taškus, žaidimų skaitiklis ir t.t. bus išsaugoti.\nAr tikrai tęsti?
+
+#
+# ./src/metadata/mlp.c
+#
+id: Custom search query
+msg: Individualizuotos paieškos užklausa
+
+id: Custom title
+msg: Įvesti pavadinimą
+
+id: IMDb ID
+msg: IMDb ID
+
+id: Metadata loaded from <b>%s</b> based on %s
+msg: Metaduomenys įkelti iš <b>%s</b> remiantis %s
+
+id: Metadata source
+msg: Metaduomenų šaltinis
+
+id: Movie
+msg: Filmai
+
+id: Movie title
+msg: Filmo pavadinimas
+
+id: No data found
+msg: Duomenų nerasta
+
+id: None
+msg: Nėra
+
+id: Refresh metadata
+msg: Atnaujinti metaduomenis
+
+id: Title, Season, Episode
+msg: Pavadinimas, sezonas, epizodas
+
+id: custom IMDb ID
+msg: vartotojiška IMDb ID
+
+id: custom query
+msg: vartotojo užklausa
+
+id: filename
+msg: failo vardas
+
+id: filename as TV episode
+msg: failo pavadinimas kaip TV serija
+
+id: folder name
+msg: aplanko pavadinimas
+
+#
+# ./src/navigator.c
+#
+id: Add and remove items on homepage
+msg: Elementų pridėjimas ir pašalinimas pagrindiniame ekrane
+
+id: Added %s to home page
+msg: %s pridėta prie pagrindinio ekrano
+
+id: Added new bookmark: %s
+msg: Pridėta naujų žymių: %s
+
+id: Bookmarks
+msg: Žymos
+
+id: Icon
+msg: Piktograma
+
+id: Music
+msg: Muzika
+
+id: No handler for URL
+msg: Nėra URL tvarkyklės
+
+id: Other
+msg: Kiti
+
+id: Photos
+msg: Foto
+
+id: Removed %s from homepage
+msg: %s pašalinta iš pagrindinio ekrano
+
+id: Removed bookmark: %s
+msg: Pašalintos žymos: %s
+
+id: TV
+msg: TV
+
+id: Title
+msg: Pavadinimas
+
+id: Type
+msg: Tipas
+
+id: URL
+msg: URL
+
+id: Video
+msg: Video
+
+#
+# ./src/networking/connman.c
+#
+id: Enable Wi-Fi
+msg: Įjungti Wi-Fi
+
+id: Network connections
+msg: Tinklo sujungimai
+
+#
+# ./src/networking/ftp_server.c
+#
+id: Enable FTP server
+msg: Įgalinti FTP serverį
+
+id: FTP server
+msg: FTP serveris
+
+id: Server TCP port
+msg: Serverio TCP prievadas
+
+#
+# ./src/networking/http_server.c
+#
+id: Power Off
+msg: Išjungti maitinimą
+
+id: Rebooting
+msg: Perkraunama
+
+id: Restarting
+msg: Paleidžiama iš naujo
+
+id: Standby
+msg: Budėjimo režimas
+
+#
+# ./src/notifications.c
+#
+id: Show news on home screen
+msg: Rodyti naujienas pagrindiniame ekrane
+
+#
+# ./src/plugins.c
+#
+id: Alternate plugin Repository URL
+msg: Alternatyvus papildinių saugyklos adresas
+
+id: Audio decoders
+msg: Garso dekoderiai
+
+id: Auto install plugins on demand
+msg: Automatiškai įdiegti papildinius pagal poreikį
+
+id: Auto installed plugin %s (Version %s)
+msg: Automatiškai įdiegtas papildinys %s (Versija %s)
+
+id: Automatically upgrade plugins
+msg: Automatinis papildinių atnaujinimas
+
+id: Available plugins
+msg: Galimi papildiniai
+
+id: Background
+msg: Fonas
+
+id: Beta testing passwords
+msg: Beta testavimo slaptažodžiai
+
+id: Browse available plugins
+msg: Peržiūrėti galimus papildinius
+
+id: Browsing
+msg: Naršymas
+
+id: Cloud services
+msg: Debesų paslaugos
+
+id: Corrupt plugin bundle
+msg: Pažeistas papildinio paketas
+
+id: Custom backgrounds can now be set in Settings -> Look and Feel
+msg: Pasirinktinius fonus galima nustatyti skiltyje Nustatymai -> Išvaizda 
+
+id: Disk write error
+msg: Klaida rašant į diską
+
+id: Downloading
+msg: Atsisiuntimas
+
+id: File open error
+msg: Klaida atidarant failą
+
+id: Home page
+msg: Pradinis ekranas
+
+id: Images
+msg: Vaizdai
+
+id: Installed
+msg: Įdiegta
+
+id: Installed plugins
+msg: Įdiegti papildiniai
+
+id: Installed version higher than available
+msg: Įdiegta versija yra naujesnė nei siūloma
+
+id: Installing
+msg: Diegiama
+
+id: List of albums
+msg: Albumų sąrašas
+
+id: Loading screen
+msg: Paleidimo ekranas 
+
+id: Movies
+msg: Filmai
+
+id: Music streaming
+msg: Muzikos transliacija
+
+id: Not installable
+msg: Neįmanoma įdiegti
+
+id: Not installed
+msg: Neįdiegta
+
+id: Not upgradable
+msg: Neatnaujinamas
+
+id: On Screen Keyboards
+msg: Ekraninė klaviatūra
+
+id: Online TV
+msg: Internetinė TV
+
+id: Plugin %s %s has been uninstalled because it may cause problems.\nYou may try reinstalling a different version manually.
+msg: Papildinys %s %s buvo pašalintas, nes sukelia problemų.\nPabandykite iš naujo įdiegti kitą versiją rankiniu būdu.
+
+id: Plugin %s has been uninstalled - %s
+msg: Papildinys %s buvo pašalintas - %s
+
+id: Plugin categories
+msg: Papildinių kategorijos
+
+id: Plugins
+msg: Papildiniai
+
+id: Preferred views from plugins
+msg: Numatytieji papildiniai
+
+id: Screen saver
+msg: Ekrano užsklanda
+
+id: TV channels
+msg: TV kanalai
+
+id: Unable to load plugin.json: %s
+msg: Neįmanoma įkelti plugin.json: %s
+
+id: Unable to load plugin.json: Malformed JSON
+msg: Neįmanoma įkelti plugin.json: Netinkamas JSON
+
+id: Uncategorized
+msg: Neklasifikuota
+
+id: Up to date
+msg: Naujausia versija
+
+id: Upgradable
+msg: Atnaujinamas
+
+id: Upgraded plugin %s to version %s
+msg: Papildinys %s atnaujintas iki versijos %s
+
+id: User interface extensions
+msg: Vartotojo sąsajos plėtiniai
+
+id: Version %s is no longer compatible with Movian
+msg: Versija %s nebėra suderinama su Movian
+
+id: Video streaming
+msg: Vaizdo srautai
+
+#
+# ./src/prop/prop_proxy.c
+#
+id: Remote exited
+msg: Nuotolinis išėjimas
+
+#
+# ./src/runcontrol.c
+#
+id: Automatic standby
+msg: Automatinis budėjimo režimas
+
+id: Enable SSH server
+msg: Įgalinti SSH serverį
+
+id: Logout
+msg: Atsijungimas
+
+id: Open shell
+msg: Open shell
+
+id: Power off system
+msg: Sistemos išjungimas
+
+id: Quit
+msg: Išeiti
+
+id: SSH server
+msg: SSH serveris
+
+#
+# ./src/sd/sd.c
+#
+id: Enabled on home screen
+msg: Rodyti pagrindiniame ekrane
+
+id: Name
+msg: Vardas
+
+#
+# ./src/service.c
+#
+id: Local network
+msg: Vietinis tinklas
+
+id: Remove from homepage
+msg: Pašalinti iš pagrindinio ekrano
+
+#
+# ./src/settings.c
+#
+id: About
+msg: Apie programą
+
+id: Applications and installed plugins
+msg: Programos ir papildiniai
+
+id: Configure communications with your TV
+msg: Ryšio su televizoriumi nustatymas
+
+id: Developer settings
+msg: Kūrėjo nustatymai
+
+id: Discovered media sources
+msg: Surasti media šaltiniai
+
+id: File browsing
+msg: Naršyti failus
+
+id: Fonts and user interface styling
+msg: Šriftai ir vartotojo sąsaja
+
+id: General
+msg: Bendras
+
+id: Global settings
+msg: Pagrindiniai nustatymai
+
+id: Look and feel
+msg: Išvaizda
+
+id: Network services, etc
+msg: Tinklo paslaugos ir kt.
+
+id: Network settings
+msg: Tinklo nustatymai
+
+id: Reset
+# Missing translation
+msg: Atstatyti
+
+id: Settings useful for developers
+msg: Kūrėjams naudingi nustatymai
+
+id: Software upgrade
+msg: Programinės įrangos atnaujinimas
+
+id: Starting and stopping
+msg: Paleidimas ir sustabdymas
+
+id: System name
+msg: Sistemos pavadinimas
+
+id: System related settings
+msg: Sistemos nustatymai
+
+id: TV Control
+msg: TV valdymas
+
+#
+# ./src/subtitles/subtitles.c
+#
+id: Any subtitle in central folder
+msg: Bet kokie subtitrai pagrindiniame aplanke
+
+id: Any subtitle in same folder as video
+msg: Bet kokie subtitrai tame pačiame aplanke kaip ir vaizdo įrašas
+
+id: Auto
+msg: Automatinis
+
+id: Automatically select from this source
+msg: Automatiškai pasirinkti iš šio šaltinio
+
+id: Central subtitle folder
+msg: Subtitrų pagrindinis aplankas
+
+id: Color
+msg: Spalva
+
+id: External file
+msg: Išorinis failas
+
+id: Force subtitles to reside on video frame
+msg: Priversti subtitrus likti vaizdo kadre
+
+id: Generic settings for video subtitles
+msg: Bendrieji vaizdo įrašų subtitrų nustatymai
+
+id: Ignore embedded styling
+msg: Nepaisykite įtraukto stiliaus
+
+id: Left
+msg: Kairėje
+
+id: Outline color
+msg: Kontūro spalva
+
+id: Outline size
+msg: Kontūro dydis
+
+id: Path to central folder
+msg: Nuoroda į pagrindinį aplanką 
+
+id: Providers for Subtitles
+msg: Subtitrų teikėjai
+
+id: Right
+msg: Dešinėje
+
+id: Shadow color
+msg: Šešėlių spalva
+
+id: Shadow offset
+msg: Šešėlio poslinkis
+
+id: Subtitle horizontal displacement
+msg: Horizontalus subtitrų poslinkis
+
+id: Subtitle position
+msg: Subtitrų padėtis
+
+id: Subtitle size
+msg: Subtitrų dydis
+
+id: Subtitle size and positioning
+msg: Subtitrų dydis ir padėtis
+
+id: Subtitle vertical displacement
+msg: Vertikalus subtitrų poslinkis
+
+id: Subtitles embedded in video file
+msg: Subtitrai, įterpti į vaizdo įrašo failą
+
+id: Subtitles with matching filename in central folder
+msg: Subtitrai su atitinkamu failo pavadinimu pagrindiniame aplanke
+
+id: Subtitles with matching filename in same folder as video
+msg: Subtitrai su atitinkamu failo pavadinimu tame pačiame aplanke kaip ir vaizdo įrašas
+
+#
+# ./src/text/fontstash.c
+#
+id: Defaults
+msg: Numatytieji
+
+id: Fonts
+msg: Šriftai
+
+id: Installed fonts
+msg: Įdiegti šriftai
+
+id: Narrow text
+msg: Siauras šriftas
+
+id: Reset main font to default
+msg: Iš naujo nustatyti pagrindinį šriftą
+
+id: Reset narrow font to default
+msg: Siauro šrifto nustatymas iš naujo
+
+id: Reset subtitle font to default
+msg: Iš naujo nustatyti subtitrų šriftą
+
+id: Unable to install font: %s
+msg: Neįmanoma įdiegti šrifto: %s 
+
+id: Use font %s for
+msg: Naudoti šriftą %s
+
+#
+# ./src/ui/clipboard.c
+#
+id: Copy failed: %s
+msg: Kopijavimo klaida: %s
+
+id: Target folder
+msg: Paskirties aplankas
+
+#
+# ./src/ui/glw/glw_ps3.c
+#
+id: Dual-Shock Remote
+msg: Nuotolinio valdymo pultas Dual-Shock
+
+id: No
+msg: Нет
+
+id: Seek using L2 and R2 button
+msg: Atsukite vaizdo įrašą mygtukais L2 ir R2
+
+id: Yes with Select button
+msg: Taip su Select mygtuku
+
+#
+# ./src/ui/glw/glw_settings.c
+#
+id: Custom background image
+msg: Pasirinktinis fonas
+
+id: Emulate Up/Down buttons with mouse wheel
+msg: Imituoti aukštyn/žemyn mygtukus su pelės ratuku 
+
+id: Folder for screensaver images
+msg: Ekrano užsklandos vaizdų aplankas
+
+id: Font and icon size
+msg: Šrifto ir piktogramos dydis
+
+id: Interface horizontal shrink
+msg: Horizontalus sąsajos glaudinimas
+
+id: Interface vertical shrink
+msg: Vertikalus sąsajos glaudinimas
+
+id: Screensaver
+msg: Ekrano užsklanda
+
+id: Screensaver delay
+msg: Ekrano užsklandos laikas
+
+id: Seconds per image
+msg: Vaizdo keitimo laikas
+
+id: Use Bing images of the day
+msg: Naudoti dienos vaizdus iš Bing
+
+id: Wrap when reaching beginning/end of lists
+msg: Perėjimas pasiekus sąrašo pradžią / pabaigą
+
+#
+# ./src/ui/glw/glw_view_eval.c
+#
+id: %d days ago
+msg: Prieš %d dienų 
+
+id: %d hours ago
+msg: Prieš %d valandų
+
+id: %d minutes ago
+msg: Prieš %d minučių
+
+id: %d months ago
+msg: Prieš %d mėnesių
+
+id: %d weeks ago
+msg: Prieš %d savaičių
+
+id: %d years ago
+msg: Prieš %d metų
+
+id: Just now
+msg: Tik ką dabr
+
+id: One day ago
+msg: Prieš dieną
+
+id: One hour ago
+msg: Prieš valandą
+
+id: One minute ago
+msg: Prieš minutę
+
+id: One month ago
+msg: Prieš mėnesį
+
+#
+# ./src/ui/linux/nvidia.c
+#
+id: Auto-switch to this mode
+msg: Automatinis perjungimas į šį režimą
+
+id: DVI-Video color range
+msg: DVI-Video spalvų gama
+
+id: Switch to this mode now
+msg: Įjungti šį režimą dabar
+
+id: Video modes
+msg: Vaizdo įrašų režimai
+
+#
+# ./src/upgrade.c
+#
+id: %s version %s is available
+msg: %s versija %s prieinama
+
+id: Notify about upgrades
+msg: Pranešti apie atnaujinimus
+
+id: Open download page
+msg: Atidaryti atsisiuntimo puslapį
+
+id: System
+msg: Sistema
+
+id: Upgrade to releases from
+msg: Atnaujinti iki versijos 
+
+#
+# ./src/upnp/upnp_browse.c
+#
+id: Date (newest first)
+msg: Data (naujausi pirma)
+
+id: Date (oldest first)
+msg: Data (seniausi pirma)
+
+id: Device not found
+msg: Įrenginys nerastas
+
+id: Malformed URI after device
+msg: Neteisingas URI po įrenginio
+
+id: Malformed URI after service
+msg: Netinkamas URI po tarnybos
+
+id: Service not found
+msg: Paslauga nerasta
+
+#
+# ./src/video/video_settings.c
+#
+id: Always
+msg: Visada
+
+id: Ask
+msg: Klausti
+
+id: Automatically play next video in list
+msg: Automatiškai paleisti kitą vaizdo įrašą sąraše
+
+id: Count video as played when reaching
+msg: Suskaičiuokite vaizdo įrašą, kai jis buvo paleistas
+
+id: Enable VDPAU
+msg: Įjungti VDPAU
+
+id: Hardware accelerated decoding
+msg: Aparatinis dekodavimo spartinimas
+
+id: Maximum resolution for deinterlacer
+msg: Maksimali skiriamoji geba deinterlacer
+
+id: Never
+msg: Niekada
+
+id: No limit
+msg: Neribotai
+
+id: Per-file volume
+msg: Vieno failo garsumas
+
+id: Preferred VDPAU deinterlacer method
+msg: Pageidaujamas VDPAU deinterlacer metodas 
+
+id: Resume video playback
+msg: Tęsti vaizdo įrašo rodymą
+
+id: Show clock during playback
+msg: Rodyti laikrodį įrašo metu
+
+id: Step when seeking backward
+msg: Žingsnis ieškant atgal
+
+id: Step when seeking forward
+msg: Žingsnis ieškant pirmyn
+
+id: Temporal
+msg: Laikinas
+
+id: Temporal/Spatial
+msg: Laikinas/erdvinis
+
+id: Up / Down during video playback controls
+msg: Aukštyn/žemyn valdymas vaizdo įrašo atkūrimo metu
+
+id: Video acceleration and display behaviour
+msg: Vaizdo įrašo spartinimas ir ekrano elgsena
+
+id: Video buffer size
+msg: Vaizdo įrašo buferio dydis
